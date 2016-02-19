@@ -1,0 +1,51 @@
+
+
+============= User:  8710 ================
+Date_Time:  1104_151230
+Device Model: Bluebird BM180
+0.34 hour session
+Normal Logoff
+Zones worked:  2 2 5 
+0 WFD espisodes (0 WFD total)
+WFD Rate:        	0.00 episodes/hour
+Avg WFD Duration:	N/A
+Avg RSSI:        	-51.5 dBm
+Avg Response Time:	357 mSec (rec=297 + app=60)
+
+
+============= User:  2409 ================
+Date_Time:  1104_154456
+Device Model: Bluebird BM180
+0.63 hour session
+Abnormal Logoff
+Zones worked:  2 3 5 
+1 WFD espisodes (1 WFD total)
+WFD Rate:        	1.58 episodes/hour
+Avg WFD Duration:	1.00 WFDs/episode
+Avg RSSI:        	-58.7 dBm
+Avg Response Time:	472 mSec (rec=281 + app=190)
+
+
+============= User:  2409 ================
+Date_Time:  1104_165104
+Device Model: Bluebird BM180
+0.87 hour session
+Abnormal Logoff
+Zones worked:  1 2 3 3 4 5 6 6 1 1 2 3 3 4 5 6 6 s 1 1 1 1 2 
+2 WFD espisodes (2 WFD total)
+WFD Rate:        	2.30 episodes/hour
+Avg WFD Duration:	1.00 WFDs/episode
+Avg RSSI:        	-54.6 dBm
+Avg Response Time:	490 mSec (rec=356 + app=134)
+
+
+
+******************************************************
+************ Summary of Logs from 11-04 **************
+1 out of 3 user sessions had no WFD episodes.
+Duration of all sessions combined:  1.84 hours
+WFD Rate:        	1.63 episodes/hour
+Avg WFD Duration:	1.00 WFDs/episode
+Avg RSSI:        	-55.0 dBm
+Avg Response Time:	450 mSec (rec=325 + app=125)
+******************************************************
